@@ -26,11 +26,11 @@
     <color name="status_bar_recents_app_label_color">#ffffffff</color>
     <color name="notification_list_shadow_top">#80000000</color>
     <color name="notification_panel_scrim_color">#B0000000</color>
-    <color name="batterymeter_frame_color">#66FFFFFF</color><!-- 40% white -->
-    <color name="batterymeter_charge_color">#FFFFFFFF</color>
-    <color name="batterymeter_bolt_color">#B2000000</color><!-- 70% black -->
-    <color name="batterymeter_critical">#FFFF3300</color>
-    <color name="batterymeter_low">#FFFF3300</color>
-    <color name="batterymeter_full">#FFFFFFFF</color>
     <color name="status_bar_clock_color">#FFFFFFFF</color>
+    <color name="system_primary_color">#ff252222</color>
+    <color name="system_secondary_color">#ffe30016</color>
+    <color name="system_accent_color">#ffb61300</color>
+    <color name="qs_text">#ffffffff</color>
+    <color name="qs_tile_text">#b3ffffff</color>
+    <color name="qs_tile_divider">#00000000</color>
 </resources>

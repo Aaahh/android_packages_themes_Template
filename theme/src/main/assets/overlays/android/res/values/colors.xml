@@ -39,8 +39,21 @@
     <color name="dim_foreground_inverse_disabled_material_light">#80bebebe</color>
     <color name="hint_foreground_material_light">#ff808080</color>
     <color name="highlighted_text_material_dark">#6633b5e5</color>
-    <color name="highlighted_text_material_light">#6633b5e5</color>
     <color name="link_text_material_dark">#ff5c5cff</color>
     <color name="link_text_material_light">#ff0000ee</color>
 
+    <color name="black">#ff212121</color>
+    <color name="holo_blue_light">#ff959595</color>
+	<color name="highlighted_text_material_light">#663f51b5</color>
+	<color name="theme_accent">#ff959595</color>
+	 <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_media_primary_color">#ffffffff</color>
+    <color name="notification_media_secondary_color">#ffffffff</color>
+     <color name="primary_text_default_material_light">#ff4c777c</color>
+    <color name="secondary_text_default_material_light">#ff4c777c</color>
+	    <color name="material_deep_teal_200">#ffd92e25</color>
+    <color name="material_deep_teal_500">#ff959595</color>
+    <color name="material_blue_grey_800">#ffac1404</color>
+	    <color name="material_blue_grey_900">#ffac1404</color>
+    <color name="material_blue_grey_950">#ffac1404</color>
 </resources>
